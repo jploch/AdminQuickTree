@@ -11,4 +11,4 @@ For super-users or users with all permissions set it looks like this:
 <img src="https://processwire-forums.s3.us-west-2.amazonaws.com/monthly_2025_09/image.thumb.png.5858f201a6f9527fc0322ea3c820eafc.png">
 
 
-These changes are achieved width a small css file. And a small js file that triggers the ajax tree navigation after the dom has been loaded. While I have tested it already a bit, I release this for now as a beta version. I hope other find it useful as well.
+These changes are achieved width a small js file that triggers the ajax tree navigation after the dom has been loaded. While I have tested it already a bit, I release this for now as a beta version. I hope other find it useful as well.
